@@ -1,12 +1,12 @@
 {
-  "version": "3.5.3",
+  "version": "3.5.4",
   "description": "A cross-platform keyboard-driven minimal launcher (like Alfred/Raycast)",
   "homepage": "https://github.com/yukimemi/shun",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/yukimemi/shun/releases/download/v3.5.3/shun-windows-x64.zip",
-      "hash": "afa10db7d27ac1b09f3100f1c99c0bdabcdb9cf5a88b09abf84c9e042ea1bb5d"
+      "url": "https://github.com/yukimemi/shun/releases/download/v3.5.4/shun-windows-x64.zip",
+      "hash": "52148c4a4feee4caff721551c4bb1d2a6545f16481c881188213b4b79de428d1"
     }
   },
   "bin": "shun.exe",
